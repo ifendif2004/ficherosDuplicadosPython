@@ -6,6 +6,6 @@ Instalar:
 - pip install pyqt6-tools
 
 Comandos:
-pyuic6 -x ptqt6.ui -o ptqt6.py
-pip install pyinstaller
-pyinstaller --onefile -w MainPtQ6.py
+- pyuic6 -x ptqt6.ui -o ptqt6.py
+- pip install pyinstaller
+- pyinstaller --onefile -w MainPtQ6.py
